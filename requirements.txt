@@ -1,12 +1,9 @@
 flask
 gunicorn
-
 torch
 transformers
-
 numpy
 pandas
 scikit-learn
-
 loguru
 huggingface-hub
